@@ -1,0 +1,23 @@
+{
+  "name": "teste-ebac-ua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RegisEbac/teste-ebac-ua.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RegisEbac/teste-ebac-ua/issues"
+  },
+  "homepage": "https://github.com/RegisEbac/teste-ebac-ua#readme",
+  "dependencies": {
+    "cypress": "^12.5.1"
+  }
+}
